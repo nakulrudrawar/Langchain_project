@@ -35,7 +35,3 @@ python myai.py
 
 - Keep your `secret_key.py` private and never share it.
 - Update dependencies in this README as your project grows.
-
-## License
-
-Specify your license here.
